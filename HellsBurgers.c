@@ -7,6 +7,7 @@
 #include <unistd.h>
 
 
+
 #define LIMITE 50
 
 //creo estructura de semaforos 
